@@ -1,3 +1,4 @@
+#print only positive and brak on zero
 sum = 0
 while True:
     n = int(input("Enter the number"))
